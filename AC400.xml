@@ -46,17 +46,29 @@
 		<table type="Y Axis" storageaddress="0x9d92" />
 	</table>
 
-	<table name="MAF" storageaddress="0xA1E8">
-	</table>
+	<table name="MAF" storageaddress="0xA1E8"/>
 
-	<table name="Rev Limit (Fuel Cut - 3D)" storageaddress="0x6FA8">
-	</table>
+	<table name="Rev Limit (Fuel Cut - 3D)" storageaddress="0x6FA8"/>
 
-	<table name="Idle Target" storageaddress="0x988c">
-	</table>
+	<table name="Idle Target" storageaddress="0x988c"/>
 
-	<table name="Fuel Injection Multiplier" storageaddress="0x6f24">
-	</table>
+	<table name="Fuel Injection Multiplier" storageaddress="0x6f24"/>
+
+	<table name="Radiator Fan Switch Point" storageaddress="0x697A"/>
+	<table name="Minimum Injector Pulse Width" storageaddress="0x8a86"/>
+
+	<table name="Individual Cylinder Fuel Trims" storageaddress="0x99E4" sizey="6"/>
+
+	<table name="Open loop fuel target delay" storageaddress="0x6741"/>
+
+	<table name="Injector Latency at 14V" storageaddress="0x6b40" />
+	<table name="Fuel Injector Latency Adder" storageaddress="0x652d" />
+	<table name="Cranking Enrichment" storageaddress="0xA982"/>
+	<table name="Speed Limiter" storageaddress="0x705e" />
+	<table name="Load Base Fuel Schedule" storageaddress="0xa46c" />
+
+	<table name="Throttle Rev Limit" storageaddress="0x7036"/>
+	<table name="MAF factor" storageaddress="0x691f" />
 
 	<checksum type="std" start="0" end="0xFFFFF" sumloc="0x71f4" xorloc="0x71ec" />
 

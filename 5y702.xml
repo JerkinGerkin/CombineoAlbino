@@ -44,18 +44,18 @@
 		<table type="Y Axis" storageaddress="0x7690" />
 	</table>
 
-	<table name="Rev Limit (Fuel Cut - 3D)" storageaddress="0x4F6C">
-	</table>
-	<table name="MAF" storageaddress="0x789c">
-	</table>
-	<table name="Speed Limiter" storageaddress="0x4fba">
-	</table>
-	<table name="Idle Target" storageaddress="0x72ea">
-	</table>
-	<table name="Idle Target 2" storageaddress="0x730e">
-	</table>
-	<table name="Fuel Injection Multiplier" storageaddress="0x4f16">
-	</table>
+	<table name="Rev Limit (Fuel Cut - 3D)" storageaddress="0x4F6C"/>
+
+	<table name="MAF" storageaddress="0x789c"/>
+
+	<table name="Speed Limiter" storageaddress="0x4fba"/>
+
+	<table name="Idle Target" storageaddress="0x72ea"/>
+
+	<table name="Idle Target 2" storageaddress="0x730e"/>
+
+	<table name="Fuel Injection Multiplier" storageaddress="0x4f16"/>
+
 	<table name="QH0/ torque conversion map" storageaddress="0x6390">
 		<table type="X Axis" storageaddress="0x787c" />
 		<table type="Y Axis" storageaddress="0x6d3e" />   
