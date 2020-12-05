@@ -531,6 +531,78 @@
 		<description>This table represents airflow through the maf sensor at a given voltage. The ecu uses this to calculate many things including timing and fueling. It is used to fine tune air fuel ratios in many cases, as the ecu thinks more or less air is flowing through the maf sensor at a given voltage it adds or removes a proportionate amount of fuel.</description>
 	</table>
 
+
+	<table type="2D" name="MAF 2" category="Airflow" storagetype="uint16" endian="big" sizey="64" userlevel="1">
+		<scaling name="unscaled" units="N/A" expression="x" to_byte="x" format="0" fineincrement="1" coarseincrement="100" />
+
+		<table type="Static Y Axis" name="MAF Sensor (volts)" format="0.00" sizey="64">
+			<data>0.0</data>
+			<data>0.08</data>
+			<data>.16</data>
+			<data>.24</data>
+			<data>.32</data>
+			<data>.40</data>
+			<data>.48</data>
+			<data>.56</data>
+			<data>.64</data>
+			<data>.72</data>
+			<data>.80</data>
+			<data>.88</data>
+			<data>.96</data>
+			<data>1.04</data>
+			<data>1.12</data>
+			<data>1.20</data>
+			<data>1.28</data>
+			<data>1.36</data>
+			<data>1.44</data>
+			<data>1.52</data>
+			<data>1.60</data>
+			<data>1.68</data>
+			<data>1.76</data>
+			<data>1.84</data>
+			<data>1.92</data>
+			<data>2.00</data>
+			<data>2.08</data>
+			<data>2.16</data>
+			<data>2.24</data>
+			<data>2.32</data>
+			<data>2.40</data>
+			<data>2.48</data>
+			<data>2.56</data>
+			<data>2.64</data>
+			<data>2.72</data>
+			<data>2.80</data>
+			<data>2.88</data>
+			<data>2.96</data>
+			<data>3.04</data>
+			<data>3.12</data>
+			<data>3.20</data>
+			<data>3.28</data>
+			<data>3.36</data>
+			<data>3.44</data>
+			<data>3.52</data>
+			<data>3.60</data>
+			<data>3.68</data>
+			<data>3.76</data>
+			<data>3.84</data>
+			<data>3.92</data>
+			<data>4.00</data>
+			<data>4.08</data>
+			<data>4.16</data>
+			<data>4.24</data>
+			<data>4.32</data>
+			<data>4.40</data>
+			<data>4.48</data>
+			<data>4.56</data>
+			<data>4.64</data>
+			<data>4.72</data>
+			<data>4.80</data>
+			<data>4.88</data>
+			<data>4.96</data>			
+			<data>5.04</data>
+		</table>
+		<description>This table represents airflow through the maf sensor at a given voltage. The ecu uses this to calculate many things including timing and fueling. It is used to fine tune air fuel ratios in many cases, as the ecu thinks more or less air is flowing through the maf sensor at a given voltage it adds or removes a proportionate amount of fuel.</description>
+	</table>
 	<table type="2D" name="Idle Target" category="Idle" storagetype="uint8" endian="big" sizey="16" userlevel="1">
 		<scaling units="RPM" expression="x*12.5" to_byte="x/12.5" format="0" fineincrement="1" coarseincrement="100" />
 		<table type="Static Y Axis" name="Coolant Temperature(Fahrenheit)" format="0" sizey="16">
