@@ -42,18 +42,15 @@
       <table type="Y Axis" storageaddress="0x2409" />
     </table>
 	
-	<table name="Rev Limit (Fuel Cut - 3D)" storageaddress="0x0AC2">
-	</table>
+	<table name="Rev Limit (Fuel Cut - 3D)" storageaddress="0x0AC2"/>
 
-	<table name="MAF" storageaddress="0x2F78">
-	</table>
+	<table name="MAF" storageaddress="0x2F78"/>
 
-	<table name="Fuel Injection Multiplier" storageaddress="0x0AA0">
-	</table>
+	<table name="Fuel Injection Multiplier" storageaddress="0x0AA0"/>
 	
-	<table name="Idle Target" storageaddress="0x2AE1">
-	</table>
+	<table name="Idle Target" storageaddress="0x2AE1"/>
 	
+	<table name="NATS DTCs"  storageaddress="0x2242"/>
 
 	<checksum type="std" start="0" end="0x7FFFF" sumloc="0x0b88" xorloc="0x0b80" />
 
