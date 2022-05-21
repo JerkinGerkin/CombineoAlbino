@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>5Y703</xmlid>
+		<xmlid>15Y703</xmlid>
 		<hwid>1TKE8Z5N59</hwid>
-		<internalidaddress>6C61</internalidaddress>
-		<internalidstring>5Y703</internalidstring>
-		<ecuid>5Y703</ecuid>
+		<internalidaddress>6C60</internalidaddress>
+		<internalidstring>15Y703</internalidstring>
+		<ecuid>15Y703</ecuid>
 		<year>02</year>
 		<market>USDM</market>
 		<make>Nissan</make>
@@ -38,7 +38,7 @@
 
 	<table name="Fuel Target" storageaddress="0x5999">
 		<table type="X Axis" storageaddress="0x6cfe" />
-		<table type="Y Axis" storageaddress="0x6d13" />
+		<table type="Y Axis" storageaddress="0x6e13" />
 	</table>
 
 	<table name="Intake Cam Timing (16x16)" storageaddress="0x5ad9">

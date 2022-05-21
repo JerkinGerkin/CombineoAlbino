@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>6GE2C</xmlid>
+		<xmlid>16GE2C</xmlid>
 		<hwid>2FZ35YN21</hwid>
 		<internalidaddress>8204</internalidaddress>
 		<internalidstring>16GE2C</internalidstring>
-		<ecuid>6GE2C</ecuid>
+		<ecuid>16GE2C</ecuid>
 		<year>2017</year>
 		<market>US</market>
 		<make>Nissan</make>

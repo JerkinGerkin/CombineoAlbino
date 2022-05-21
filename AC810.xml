@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>AC810</xmlid>
+		<xmlid>1AC810</xmlid>
 		<hwid>5GIWYN14</hwid>
-		<internalidaddress>A216</internalidaddress>
-		<internalidstring>AC810</internalidstring>
-		<ecuid>AC810</ecuid>
+		<internalidaddress>A215</internalidaddress>
+		<internalidstring>1AC810</internalidstring>
+		<ecuid>1AC810</ecuid>
 		<year>06</year>
 		<market>USDM</market>
 		<make>Infiniti</make>
@@ -41,7 +41,7 @@
 		<table type="Y Axis" storageaddress="0xA410"/>
 	</table>
 
-	<table name="OL Fueling Target Rate" storageaddress="0xAB12"/>
+	<table name="Regular Fuel Compensation" storageaddress="0xAB12"/>
 	
 	<table name="Exhaust Cam Timing" storageaddress="0x89A5">
 		<table type="X Axis" storageaddress="0xB236"/>

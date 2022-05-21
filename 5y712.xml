@@ -1,10 +1,10 @@
 ﻿<rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>5Y712</xmlid>
+		<xmlid>15Y712</xmlid>
 		<hwid>1TKE8Z5N51</hwid>
-		<internalidaddress>6B7C</internalidaddress>
-		<internalidstring>5Y712</internalidstring>
-		<ecuid>5Y712</ecuid>
+		<internalidaddress>6B7B</internalidaddress>
+		<internalidstring>15Y712</internalidstring>
+		<ecuid>15Y712</ecuid>
 		<year>02</year>
 		<market>USDM</market>
 		<make>Nissan</make>
@@ -44,18 +44,12 @@
 		<table type="Y Axis" storageaddress="0x76a0" />
 	</table>
 
-	<table name="Rev Limit (Fuel Cut - 3D)" storageaddress="0x4F6C">
-	</table>
-	<table name="Maf" storageaddress="0x789c">
-	</table>
-	<table name="Speed Limiter" storageaddress="0x4fba">
-	</table>
-	<table name="Idle Target" storageaddress="0x72ea">
-	</table>
-	<table name="Idle Target 2" storageaddress="0x730e">
-	</table>
-	<table name="Fuel Injection Multiplier" storageaddress="0x4f16">
-	</table>
+	<table name="Rev Limit (Fuel Cut - 3D)" storageaddress="0x4F6C"/>
+	<table name="Maf" storageaddress="0x789c"/>
+	<table name="Speed Limiter" storageaddress="0x4fba"/>
+	<!--table name="Idle Target" storageaddress="0x72ea"/>
+	<table name="Idle Target 2" storageaddress="0x730e"/-->
+	<table name="Fuel Injection Multiplier" storageaddress="0x4f16"/>
 
 	<checksum type="std" start="0" end="0x7FFFF" sumloc="0x50dc" xorloc="0x50d4" /> 
 

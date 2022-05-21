@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
     <romid>
-        <xmlid>AC200</xmlid>
+        <xmlid>1AC200</xmlid>
         <hwid>3GIJ7N04</hwid>
-        <internalidaddress>828c</internalidaddress>
-        <internalidstring>AC200</internalidstring>
-        <ecuid>AC200</ecuid>
+        <internalidaddress>828B</internalidaddress>
+        <internalidstring>1AC200</internalidstring>
+        <ecuid>1AC200</ecuid>
         <year>2003</year>
         <market>US</market>
         <make>Infiniti</make>

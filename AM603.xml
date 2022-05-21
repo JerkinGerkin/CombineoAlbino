@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>AM603</xmlid>
+		<xmlid>1AM603</xmlid>
 		<hwid>3MFED17N7</hwid>
-		<internalidaddress>6c31</internalidaddress>
-		<internalidstring>AM603</internalidstring>
-		<ecuid>AM603</ecuid>
+		<internalidaddress>6C30</internalidaddress>
+		<internalidstring>1AM603</internalidstring>
+		<ecuid>1AM603</ecuid>
 		<year>03</year>
 		<market>USDM</market>
 		<make>Infiniti</make>
@@ -50,8 +50,7 @@
 
 	<table name="Speed Limiter" storageaddress="0x5058" />
 
-	<table name="Idle Target" storageaddress="0x73AE" />
-	<table name="Idle Target 2" storageaddress="0x73D2" />
+	<table name="Idle Target" storageaddress="0x73D2" />
 
 	<table name="Fuel Injection Multiplier" storageaddress="0x4f96" />
 

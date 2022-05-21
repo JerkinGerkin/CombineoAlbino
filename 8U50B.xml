@@ -1,10 +1,10 @@
-<rom base="8U51B">
+<rom base="18U51B">
 	<romid>
-		<xmlid>8U50B</xmlid>
+		<xmlid>18U50B</xmlid>
 		<hwid>3TREE21N19</hwid>
-		<internalidaddress>747C</internalidaddress>
-		<internalidstring>8U50B</internalidstring>
-		<ecuid>8U50B</ecuid>
+		<internalidaddress>747B</internalidaddress>
+		<internalidstring>18U50B</internalidstring>
+		<ecuid>18U50B</ecuid>
 		<year>03</year>
 		<market>US</market>
 		<make>Nissan</make>

@@ -1,10 +1,10 @@
 ﻿<rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>5Y702</xmlid>
+		<xmlid>15Y702</xmlid>
 		<hwid>1TKE8Z5N53</hwid>
-		<internalidaddress>6B7C</internalidaddress>
-		<internalidstring>5Y702</internalidstring>
-		<ecuid>5Y702</ecuid>
+		<internalidaddress>6B7B</internalidaddress>
+		<internalidstring>15Y702</internalidstring>
+		<ecuid>15Y702</ecuid>
 		<year>02</year>
 		<market>USDM</market>
 		<make>Nissan</make>
@@ -45,15 +45,13 @@
 	</table>
 
 	<table name="Rev Limit (Fuel Cut - 3D)" storageaddress="0x4F6C"/>
-
 	<table name="MAF" storageaddress="0x789c"/>
-
 	<table name="Speed Limiter" storageaddress="0x4fba"/>
-
-	<table name="Idle Target" storageaddress="0x72ea"/>
-
-	<table name="Idle Target 2" storageaddress="0x730e"/>
-
+	<table name="Fuel Cut Bosch" storageaddress="0x72ea"/>
+	<table name="Fuel Cut JECS" storageaddress="0x730e"/>
+	<table name="Idle Target" storageaddress="0x7326"/>
+	<table name="Fuel Restore Bosch" storageaddress="0x735e"/>
+	<table name="Fuel Restore JECS" storageaddress="0x73e6"/>
 	<table name="Fuel Injection Multiplier" storageaddress="0x4f16"/>
 
 	<table name="QH0/ torque conversion map" storageaddress="0x6390">

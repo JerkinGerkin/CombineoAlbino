@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>CE805</xmlid>
+		<xmlid>1CE805</xmlid>
 		<hwid>5ZVP8N00</hwid>
-		<internalidaddress>8FE6</internalidaddress>
-		<internalidstring>CE805</internalidstring>
-		<ecuid>CE805</ecuid>
+		<internalidaddress>8FE5</internalidaddress>
+		<internalidstring>1CE805</internalidstring>
+		<ecuid>1CE805</ecuid>
 		<year>06</year>
 		<market>USDM</market>
 		<make>Nissan</make>

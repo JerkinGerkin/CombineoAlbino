@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
     <romid>
-        <xmlid>7S875</xmlid>
+        <xmlid>17S875</xmlid>
         <hwid>3ZWPTN0</hwid>
-        <internalidaddress>7D36</internalidaddress>
-        <internalidstring>7S875</internalidstring>
-        <ecuid>7S875</ecuid>
+        <internalidaddress>7D35</internalidaddress>
+        <internalidstring>17S875</internalidstring>
+        <ecuid>17S875</ecuid>
         <year>2004</year>
         <market>US</market>
         <make>Infiniti</make>
@@ -36,7 +36,7 @@
 		<table type="Y Axis" storageaddress="0x7E26" />
 	</table>
 
-	<table name="OL Fueling Target Rate" storageaddress="0x8294"/>
+	<table name="Regular Fuel Compensation" storageaddress="0x8294"/>
 
     <table name="Learning map TP shaft lattice point table" storageaddress="0x82BC"/>
 	<table name="Learning map N shaft lattice point table" storageaddress="0x835A"/>

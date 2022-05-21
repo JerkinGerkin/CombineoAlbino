@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>ZG59B</xmlid>
+		<xmlid>1ZG59B</xmlid>
 		<hwid>6X6E58SYMN36</hwid>
-		<internalidaddress>2401</internalidaddress>
-		<internalidstring>ZG59B</internalidstring>
-		<ecuid>ZG59B</ecuid>
+		<internalidaddress>2400</internalidaddress>
+		<internalidstring>1ZG59B</internalidstring>
+		<ecuid>1ZG59B</ecuid>
 		<year>06</year>
 		<market>USDM</market>
 		<make>Nissan</make>
@@ -41,7 +41,7 @@
 		<table type="Y Axis" storageaddress="0xa4f0"/>
 	</table>
 
-	<table name="OL Fueling Target Rate" storageaddress="0xaa7e"/>
+	<table name="Regular Fuel Compensation" storageaddress="0xaa7e"/>
 
 	<table name="Learning map TP shaft lattice point table" storageaddress="0xaabe"/>
 
@@ -56,8 +56,6 @@
 		<table type="X Axis" storageaddress="0xb03a" />
 		<table type="Y Axis" storageaddress="0xb026" />
 	</table>
-	
-	<table name="Idle Target" storageaddress="0xabbc"/>
 	
 	<table name="Fuel Injection Multiplier" storageaddress="0x864c">
 	</table>
@@ -121,6 +119,7 @@
 	
 	<table name="Fuel Cut Bosch" storageaddress="0xab88"/>
 	<table name="Fuel Cut JECS" storageaddress="0xabac"/>
+	<table name="Idle Target" storageaddress="0xabbc"/>
 	<table name="Fuel Restore Bosch" storageaddress="0xac04"/>
 	<table name="Fuel Restore JECS" storageaddress="0xacc8"/>
 	

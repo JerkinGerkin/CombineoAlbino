@@ -1,10 +1,10 @@
-<rom base="6Y300">
+<rom base="16Y300">
 	<romid>
-		<xmlid>6Y321</xmlid>
+		<xmlid>16Y321</xmlid>
 		<hwid>1TKE8Z5N56</hwid>
-		<internalidaddress>6C39</internalidaddress>
-		<internalidstring>6Y321</internalidstring>
-		<ecuid>6Y321</ecuid>
+		<internalidaddress>6C38</internalidaddress>
+		<internalidstring>16Y321</internalidstring>
+		<ecuid>16Y321</ecuid>
 		<year>03</year>
 		<market>USDM</market>
 		<make>Nissan</make>

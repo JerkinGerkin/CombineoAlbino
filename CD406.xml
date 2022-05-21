@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>CD406</xmlid>
+		<xmlid>1CD406</xmlid>
 		<hwid>???</hwid>
-		<internalidaddress>8023</internalidaddress>
-		<internalidstring>CD406</internalidstring>
-		<ecuid>CD406</ecuid>
+		<internalidaddress>8022</internalidaddress>
+		<internalidstring>1CD406</internalidstring>
+		<ecuid>1CD406</ecuid>
 		<year>03</year>
 		<market>JDM</market>
 		<make>Nissan</make>

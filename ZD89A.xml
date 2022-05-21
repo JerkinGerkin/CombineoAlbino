@@ -3,11 +3,11 @@
 	<!--L31 MY06 QR25DE 50 State AT ASCD ULEV-->
 	<!-- initial def 2018/10 fenugrec, loosely based on CM31C. Code not very similar; 
 	   ZH99A seems to be a closer match -->
-		<xmlid>ZD89A</xmlid>
+		<xmlid>1ZD89A</xmlid>
 		<hwid>6X6E58SYMN36</hwid>
-		<internalidaddress>2401</internalidaddress>
-		<internalidstring>ZD89A</internalidstring>
-		<ecuid>ZD89A</ecuid>
+		<internalidaddress>2400</internalidaddress>
+		<internalidstring>1ZD89A</internalidstring>
+		<ecuid>1ZD89A</ecuid>
 		<year>06</year>
 		<market>USDM</market>
 		<make>Nissan</make>
@@ -44,7 +44,7 @@
 		<table type="Y Axis" storageaddress="0xa4f0"/>
 	</table>
 
-	<table name="OL Fueling Target Rate" storageaddress="0xaa7e"/>
+	<table name="Regular Fuel Compensation" storageaddress="0xaa7e"/>
 
 	<table name="Learning map TP shaft lattice point table" storageaddress="0xaabe"/>
 	<table name="Learning map N shaft lattice point table" storageaddress="0xab80"/>

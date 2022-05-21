@@ -1,11 +1,11 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>ZY70D</xmlid>
+		<xmlid>1ZY70D</xmlid>
 		<hwid>33</hwid>
-		<internalidaddress>E4E5</internalidaddress>
-		<internalidstring>ZY70D</internalidstring>
-		<ecuid>ZY70D</ecuid>
-		<year>11</year>
+		<internalidaddress>E4E4</internalidaddress>
+		<internalidstring>1ZY70D</internalidstring>
+		<ecuid>1ZY70D</ecuid>
+		<year>2011</year>
 		<market>USDM</market>
 		<make>Nissan</make>
 		<model>Maxima</model>
@@ -79,8 +79,11 @@
 	<table name="mVIAST1A" storageaddress="0x8F21"/>
 	<table name="mVIAST1B" storageaddress="0x8F22"/>
 	<table name="MAF" storageaddress="0x108EE"/>
+	<table name="Load Base Fuel Schedule" storageaddress="0x10dc4" />
+	<table name="mTP100" storageaddress="0x9814"/>
+	<table name="MAF factor" storageaddress="0x8b53"/>
+	<table name="Fuel Injection Multiplier" storageaddress="0x9552"/>
 
 	<checksum type="alt2" start="0x8204" end="0xFFFFF" sumloc="0x9A18" xorloc="0x9A14"/>
-
 
 </rom>

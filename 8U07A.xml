@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>8U07A</xmlid>
+		<xmlid>18U07A</xmlid>
 		<hwid>3TREE21N15</hwid>
-		<internalidaddress>744C</internalidaddress>
-		<internalidstring>8U07A</internalidstring>
-		<ecuid>8U07A</ecuid>
+		<internalidaddress>744B</internalidaddress>
+		<internalidstring>18U07A</internalidstring>
+		<ecuid>18U07A</ecuid>
 		<year>02</year>
 		<market>US</market>
 		<make>Nissan</make>

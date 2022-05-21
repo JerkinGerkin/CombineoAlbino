@@ -1,11 +1,11 @@
 
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>ZB070</xmlid>
+		<xmlid>1ZB070</xmlid>
 		<hwid>6ZVYXN00</hwid>
-		<internalidaddress>9FFE</internalidaddress>
-		<internalidstring>ZB070</internalidstring>
-		<ecuid>ZB070</ecuid>
+		<internalidaddress>9FFD</internalidaddress>
+		<internalidstring>1ZB070</internalidstring>
+		<ecuid>1ZB070</ecuid>
 		<year>2005</year>
 		<market>USDM</market>
 		<make>Nissan</make>

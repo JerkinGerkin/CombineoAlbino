@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>ZK01B</xmlid>
+		<xmlid>1ZK01B</xmlid>
 		<hwid>6ZVYXN00</hwid>
-		<internalidaddress>2401</internalidaddress>
-		<internalidstring>ZK01B</internalidstring>
-		<ecuid>ZK01B</ecuid>
+		<internalidaddress>2400</internalidaddress>
+		<internalidstring>1ZK01B</internalidstring>
+		<ecuid>1ZK01B</ecuid>
 		<year>06</year>
 		<market>USDM</market>
 		<make>Nissan</make>

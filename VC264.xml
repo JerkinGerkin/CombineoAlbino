@@ -1,10 +1,10 @@
 ﻿<rom base="NISSAN_BASE">
     <romid>
-      <xmlid>VC264</xmlid>
+      <xmlid>1VC264</xmlid>
       <hwid>1APM99P4</hwid>
-      <internalidaddress>2295</internalidaddress>
-      <internalidstring>VC264</internalidstring>
-      <ecuid>VC264</ecuid>
+      <internalidaddress>2294</internalidaddress>
+      <internalidstring>1VC264</internalidstring>
+      <ecuid>1VC264</ecuid>
       <year>04</year>
       <market>ADM</market>
       <make>Nissan</make>

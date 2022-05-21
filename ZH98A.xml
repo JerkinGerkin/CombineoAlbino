@@ -1,11 +1,11 @@
-<rom base="ZH99A">
+<rom base="1ZH99A">
 
 	<romid>
-		<xmlid>ZH98A</xmlid>
+		<xmlid>1ZH98A</xmlid>
 		<hwid>6ZVYXN00</hwid>
-		<internalidaddress>2401</internalidaddress>
-		<internalidstring>ZH98A</internalidstring>
-		<ecuid>ZH98A</ecuid>
+		<internalidaddress>2400</internalidaddress>
+		<internalidstring>1ZH98A</internalidstring>
+		<ecuid>1ZH98A</ecuid>
 		<year>2006</year>
 		<market>USDM</market>
 		<make>Nissan</make>

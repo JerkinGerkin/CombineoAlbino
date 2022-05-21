@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>CD700</xmlid>
-	<hwid>4TTZVEM41N1</hwid>
-      <internalidaddress>7dfa</internalidaddress>
-      <internalidstring>cd700</internalidstring>
-      <ecuid>cd700</ecuid>
+		<xmlid>1CD700</xmlid>
+		<hwid>1TKE8Z5N56</hwid>
+		<internalidaddress>7DF9</internalidaddress>
+		<internalidstring>1CD700</internalidstring>
+		<ecuid>1CD700</ecuid>
 		<year>03</year>
 		<market>EU</market>
 		<make>Nissan</make>
@@ -107,6 +107,7 @@
 	<table name="Fuel Cut JECS" storageaddress="0x844F"/>
 	<table name="Fuel Restore Bosch" storageaddress="0x8497"/>
 	<table name="Fuel Restore JECS" storageaddress="0x851F"/>
+	<table name="Crank Fueling TP value" storageaddress="0x9228"/>
 
 	<checksum type="std" start="0" end="0x7FFFF" sumloc="0x63b8" xorloc="0x63b0" />
 

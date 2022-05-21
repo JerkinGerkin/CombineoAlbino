@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>7Y210</xmlid>
+		<xmlid>17Y210</xmlid>
 		<hwid>5ZVTDNK</hwid>
-		<internalidaddress>A152</internalidaddress>
-		<internalidstring>7Y210</internalidstring>
-		<ecuid>7Y210</ecuid>
+		<internalidaddress>A151</internalidaddress>
+		<internalidstring>17Y210</internalidstring>
+		<ecuid>17Y210</ecuid>
 		<year>05</year>
 		<market>USDM</market>
 		<make>Nissan</make>
@@ -37,7 +37,7 @@
 		<table type="Y Axis" storageaddress="0xa1a3" />
 	</table>
 
-	<table name="OL Fueling Target Rate" storageaddress="0xaa46"/>
+	<table name="Regular Fuel Compensation" storageaddress="0xaa46"/>
 
 	<table name="Intake Cam Timing (16x16)" storageaddress="0x89f1">
 		<table type="X Axis" storageaddress="0xb15a" />

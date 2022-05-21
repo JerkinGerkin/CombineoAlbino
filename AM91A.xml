@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>AM91A</xmlid>
+		<xmlid>1AM91A</xmlid>
 		<hwid>2wlj6d11</hwid>
-		<internalidaddress>81DF</internalidaddress>
-		<internalidstring>AM91A</internalidstring>
-		<ecuid>AM91A</ecuid>
+		<internalidaddress>81DE</internalidaddress>
+		<internalidstring>1AM91A</internalidstring>
+		<ecuid>1AM91A</ecuid>
 		<year>03</year>
 		<market>JDM</market>
 		<make>Nissan</make>

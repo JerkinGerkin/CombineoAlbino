@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>8U906</xmlid>
+		<xmlid>18U906</xmlid>
 		<hwid>5X61BENHN6</hwid>
-		<internalidaddress>7D56</internalidaddress>
-		<internalidstring>8U906</internalidstring>
-		<ecuid>8U906</ecuid>
+		<internalidaddress>7D55</internalidaddress>
+		<internalidstring>18U906</internalidstring>
+		<ecuid>18U906</ecuid>
 		<year>04</year>
 		<market>CAN</market>
 		<make>Nissan</make>

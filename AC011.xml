@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>AC011</xmlid>
+		<xmlid>1AC011</xmlid>
 		<hwid>3GIMBN06</hwid>
-		<internalidaddress>8058</internalidaddress>
-		<internalidstring>AC011</internalidstring>
-		<ecuid>AC011</ecuid>
+		<internalidaddress>8057</internalidaddress>
+		<internalidstring>1AC011</internalidstring>
+		<ecuid>1AC011</ecuid>
 		<year>03</year>
 		<market>USDM</market>
 		<make>Infiniti</make>
@@ -57,8 +57,7 @@
 	<table name="Load Base Fuel Schedule" storageaddress="0x8F8E" />
 	<table name="Rev Limit (Fuel Cut - 3D)" storageaddress="0x640E" />
 
-	<table name="Idle Target" storageaddress="0x849B" />
-	<table name="Idle Target 2" storageaddress="0x87F3" />
+	<table name="Idle Target" storageaddress="0x87F3" />
 
 	<table name="Fuel Injection Multiplier" storageaddress="0x63AE" />
 	<table name="Speed Limiter" storageaddress="0x647A" />

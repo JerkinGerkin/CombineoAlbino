@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>AM900</xmlid>
+		<xmlid>1AM900</xmlid>
 		<hwid>2wlj6d11</hwid>
-		<internalidaddress>8163</internalidaddress>
-		<internalidstring>AM900</internalidstring>
-		<ecuid>AM900</ecuid>
+		<internalidaddress>8162</internalidaddress>
+		<internalidstring>1AM900</internalidstring>
+		<ecuid>1AM900</ecuid>
 		<year>03</year>
 		<market>JDM</market>
 		<make>Nissan</make>

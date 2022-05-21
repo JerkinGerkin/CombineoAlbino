@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>AM604</xmlid>
+		<xmlid>1AM604</xmlid>
 		<hwid>3MFED18N8</hwid>
-		<internalidaddress>6c59</internalidaddress>
-		<internalidstring>AM604</internalidstring>
-		<ecuid>AM604</ecuid>
+		<internalidaddress>6C58</internalidaddress>
+		<internalidstring>1AM604</internalidstring>
+		<ecuid>1AM604</ecuid>
 		<year>03</year>
 		<market>USDM</market>
 		<make>Infiniti</make>
@@ -54,8 +54,7 @@
 
 	<table name="Speed Limiter" storageaddress="0x50be" />
 
-	<table name="Idle Target" storageaddress="0x73e6" />
-	<table name="Idle Target 2" storageaddress="0x740a" />
+	<table name="Idle Target" storageaddress="0x7422" />
 
 	<table name="Fuel Injection Multiplier" storageaddress="0x4ffa" />
 
@@ -68,6 +67,29 @@
 		<table type="X Axis" storageaddress="0x8988" />
 		<table type="Y Axis" storageaddress="0x88f8" />   
 	</table>
+		
+	<table name="Catalyst DTCs" storageaddress="0x88ba"/>
+	<table name="P1490" storageaddress="0x88bb"/>
+	<table name="AT1 DTCs"  storageaddress="0x88be"/>
+	<table name="AT2 DTCs"  storageaddress="0x88bf"/>
+	<table name="NATS DTCs"  storageaddress="0x88c1"/>
+	<table name="Evap DTCs" storageaddress="0x88c3"/>
+	<table name="Evap 2 DTCs"  storageaddress="0x88c4"/>
+	<table name="AT3 VIAS DTCs"  storageaddress="0x88c8"/>
+	<table name="Power Steering DTC"  storageaddress="0x88ce"/>
+	<table name="CAN DTCs" storageaddress="0x88cf"/>
+	<table name="P1121 Throttle DTCs"  storageaddress="0x88d8"/>
+	<table name="ASCD DTCs"  storageaddress="0x88dc"/>
+	<table name="AT4 DTCs" storageaddress="0x88e2"/>
+	<table name="AT5 DTCs" storageaddress="0x88e3"/>
+	<table name="Primary O2 DTCs" storageaddress="0x88e4"/>
+	<table name="Primary O2 Idle DTCs" storageaddress="0x88e5"/>
+	<table name="Secondary O2 DTCs" storageaddress="0x88e6"/>
+	<table name="Secondary O2 Knock DTCs" storageaddress="0x88e7"/>
+	<table name="Fuel Evap Purge Solenoid DTCs" storageaddress="0x88ea"/>
+	<table name="Evap Pressure Flow DTCs" storageaddress="0x88ec"/>
+	<table name="Evap Leaks DTCs"  storageaddress="0x88ed"/>
+	<table name="Throttle DTCs"  storageaddress="0x88ef"/>
 
 	<checksum type="std" start="0" end="0x7FFFF" sumloc="0x51F8" xorloc="0x51F0" />
 

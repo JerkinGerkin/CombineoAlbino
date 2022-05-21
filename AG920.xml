@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>AG920</xmlid>
+		<xmlid>1AG920</xmlid>
 		<hwid>9QE4V3DQ</hwid>
-		<internalidaddress>1ED1</internalidaddress>
-		<internalidstring>AG920</internalidstring>
-		<ecuid>AG920</ecuid>
+		<internalidaddress>1ED0</internalidaddress>
+		<internalidstring>1AG920</internalidstring>
+		<ecuid>1AG920</ecuid>
 		<year>??</year>
 		<market>??</market>
 		<make>Nissan</make>

@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>6W505</xmlid>
+		<xmlid>16W505</xmlid>
 		<hwid>4WXLKN3</hwid>
-		<internalidaddress>8153</internalidaddress>
-		<internalidstring>6W505</internalidstring>
-		<ecuid>6W505</ecuid>
+		<internalidaddress>8152</internalidaddress>
+		<internalidstring>16W505</internalidstring>
+		<ecuid>16W505</ecuid>
 		<year>04</year>
 		<market>USDM</market>
 		<make>Nissan</make>

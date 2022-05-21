@@ -1,10 +1,10 @@
 <rom base="NISSAN_BASE">
 	<romid>
-		<xmlid>1NX4A</xmlid>
+		<xmlid>11NX4A</xmlid>
 		<hwid>8ZHFAUN5</hwid>
-		<internalidaddress>8210</internalidaddress>
-		<internalidstring>1NX4A</internalidstring>
-		<ecuid>1NX4A</ecuid>
+		<internalidaddress>820F</internalidaddress>
+		<internalidstring>11NX4A</internalidstring>
+		<ecuid>11NX4A</ecuid>
 		<year>2011</year>
 		<market>US</market>
 		<make>Infiniti</make>

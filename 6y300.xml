@@ -1,11 +1,11 @@
 <rom base="NISSAN_BASE">
 <!--DON'T USE THIS ROM, FLASH TO 6Y303-->
 	<romid>
-		<xmlid>6Y300</xmlid>
+		<xmlid>16Y300</xmlid>
 		<hwid>1TKE8Z5N56</hwid>
-		<internalidaddress>6C39</internalidaddress>
-		<internalidstring>6Y300</internalidstring>
-		<ecuid>6Y300</ecuid>
+		<internalidaddress>6C38</internalidaddress>
+		<internalidstring>16Y300</internalidstring>
+		<ecuid>16Y300</ecuid>
 		<year>03</year>
 		<market>USDM</market>
 		<make>Nissan</make>
@@ -57,7 +57,7 @@
 		<table type="Y Axis" storageaddress="0x6deb" />
 	</table>
 
-	<table name="OL Fueling Target Rate" storageaddress="0x72D9"/>
+	<table name="Regular Fuel Compensation" storageaddress="0x72D9"/>
 
 	<table name="Learning map TP shaft lattice point table" storageaddress="0x7301"/>
 	<table name="Learning map N shaft lattice point table" storageaddress="0x73AF"/>
@@ -96,8 +96,10 @@
 
 	<table name="Fuel Cut Bosch" storageaddress="0x73B7"/>
 	<table name="Fuel Cut JECS" storageaddress="0x73D8"/>
-	<table name="Fuel Restore Bosch" storageaddress="0x74B3"/>
+	<table name="Idle Target" storageaddress="0x73f3"/>
 	<table name="Fuel Restore JECS" storageaddress="0x742B"/>
+	<table name="Fuel Restore Bosch" storageaddress="0x74B3"/>
+
 
 	<table name="Cranking Advance" storageaddress="0x6FA0" />
 	<table name="High Temp Fuel Comp" storageaddress="0x5291">
@@ -105,7 +107,7 @@
 		<table type="Y Axis" storageaddress="0x6CE2" />
 	</table>
 
-	<table name="Idle Target" storageaddress="0x73f3"/>
+
 
 	<table name="Fuel Injection Multiplier" storageaddress="0x4FD0">
 	</table>
@@ -152,9 +154,9 @@
 	<table name="mMBTM" storageaddress="0x4AA7"/>
 	<table name="mMBTT" storageaddress="0x4AA8"/>
 	<table name="mTAU0" storageaddress="0x4CB6"/>
-	<table name="mVIASN0A" storageaddress="0x4DE5"/>
-	<table name="mVIASN1A" storageaddress="0x4DE6"/>
-	<table name="mVIAST1A" storageaddress="0x4DE8"/>
+	<table name="VIAS A Lower Engine Speed" storageaddress="0x4DE5"/>
+	<table name="VIAS A Upper Engine Speed" storageaddress="0x4DE6"/>
+	<table name="VIAS A Minimum IPW" storageaddress="0x4DE8"/>
 	<table name="mTP100" storageaddress="0x5098"/>
 	<table name="MAF idle voltage limits (USRV)" storageaddress="0x50D0" />
 	<table name="MAF voltage limits" storageaddress="0x4E9E" />
